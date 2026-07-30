@@ -2,7 +2,7 @@
 
 **Svensk AI-driven webbyrå i Göteborg.** Vi bygger hemsidor på 48 timmar från 3 999 kr och AI-byggda webb-appar från 2 999 kr. Fast pris från start. Du äger koden.
 
-→ **[webraketen.se](https://webraketen.se)** · hej@webraketen.se · Göteborg, Sverige
+→ **[webraketen.se](https://webraketen.se)** · 031-373 51 11 · hej@webraketen.se · Göteborg, Sverige
 
 ---
 
