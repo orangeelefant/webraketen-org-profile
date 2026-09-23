@@ -42,7 +42,7 @@ Vi driver en flotta av kund- och egna sajter på Astro, Next.js och SvelteKit ö
 
 ## Kontakt
 
-Skriv till **hej@webraketen.se** eller bo[ka direkt på webraketen.se →](https://webraketen.se)
+Skriv till **hej@webraketen.se** eller [boka direkt på webraketen.se →](https://webraketen.se)
 - **[Il Gambero](https://ilgambero.se)** — Il Gambero — napoletansk pizzeria på Storgatan 11 i Göteborg.
 - **[Vallawok](https://vallawok.se)** — Vallawok — äkta thaimat i Linköping sedan 2012.
 - **[Miss Print](https://missprint.se)** — Miss Print — personligt tryckeri i Göteborg sedan 1999.
