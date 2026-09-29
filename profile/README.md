@@ -1,52 +1,43 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/webraketen-logo-mork.svg">
+  <img src="assets/webraketen-logo.svg" alt="Webraketen" height="60">
+</picture>
+
 # Webraketen
 
-**Svensk AI-driven webbyrå i Göteborg.** Vi bygger hemsidor på 48 timmar från 3 999 kr och AI-byggda webb-appar från 2 999 kr. Fast pris från start. Du äger koden.
+Vi bygger din sajt till fast pris, från 3 999 kr. Efter ett samtal på 30 minuter får du en offert via e-post inom 24 timmar. Du godkänner skissen innan vi skriver kod, och sajten är din från dag ett.
 
-→ **[webraketen.se](https://webraketen.se)** · 031-373 51 11 · hej@webraketen.se · Göteborg, Sverige
+**[webraketen.se](https://webraketen.se)** · hej@webraketen.se · 031-373 51 11 · Göteborg, mån till fre 09 till 17
 
----
+## Vad kostar det?
 
-## Vad vi bygger
+- Launch, 3 999 kr: 1 till 3 sidor, klar på 14 dagar
+- Expand, 5 999 kr: 5 till 10 sidor, klar på 14 dagar
+- Complete, 8 999 kr: 10 sidor eller fler, klar på 21 dagar
 
-Vi driver en flotta av kund- och egna sajter på Astro, Next.js och SvelteKit över Netlify och Cloudflare. Allt är spårbart, snabbt och säkert.
+Efter lansering väljer du drift hos oss för 299 kr/mån, eller egen hosting för 0 kr i månaden hos oss. Domänen är gratis första året, sedan 999 kr/år. Alla priser är exklusive moms.
 
-### Kundsajter (paying)
+## Hur går det till?
 
-- **[Städly](https://stadly.nu)** — Städfirma i Göteborg med 4,9★ på Google
-- **[Kraft & Rent](https://kraftrent.se)** — Hem- och företagsstädning sedan 20 år
-- **[Theresas Städ](https://theresasstad.se)** — Familjeägd städfirma med 20+ års erfarenhet
-- **[ES Sten och Anläggning](https://esstenochanlaggning.se)** — Markarbeten och betongplattor i Göteborg
-- **[MS Entreprenad](https://msentreprenad.se)** — Dränering och anläggning i Västra Götaland
-- **[Tittis Städ](https://tittisstad.se)** — Hemstäd, flyttstäd och fönsterputs
-- **[Kungälvs Kött & Chark](https://kungalvskottochchark.se)** — Köttlådor och styckdetaljer i Kungälv
-- **[Fastpris Städ Göteborg](https://fastprisstad.se)** — Kontorsstäd och flyttstäd till fast pris
+Du följer bygget i en delad länk varje dag. AI skriver utkasten, vi leder arbetet och granskar allt för hand. Vid lansering flyttar vi domänen till dig, sätter upp sökverktygen och lämnar en drift-checklista.
 
-### Egna varumärken (publisher network)
+## Sajter vi bygger och driver
 
-- **[Hittaflyttstädning](https://hittaflyttstadning.se)** — Oberoende jämförelseguide för flyttstäd i Göteborg
-- **[Hemstäd Göteborg](https://hemstadgoteborg.com)** — Professionell hemstädning i hela staden
-- **[Flyttstäd Göteborg](https://flyttstadgoteborg.se)** — Flyttstäd från 1 995 kr med besiktningsgaranti
-
----
-
-## Stack
-
-`Astro` · `Next.js` · `SvelteKit` · `TypeScript` · `Tailwind CSS` · `Netlify` · `Cloudflare` · `Supabase` · `Resend` · `PostHog`
-
-## Hur vi jobbar
-
-1. **48-timmars leverans** av en första version — fast pris, du äger koden
-2. **GitHub-baserat** — varje kund får eget repo, full transparens
-3. **Mätbart** — Search Console, GA4, PostHog och egna routines bevakar kvalitet
-4. **AI-stack** — Claude och Codex i loopen för snabbare, säkrare iteration
-
-## Kontakt
-
-Skriv till **hej@webraketen.se** eller [boka direkt på webraketen.se →](https://webraketen.se)
-- **[Il Gambero](https://ilgambero.se)** — Il Gambero — napoletansk pizzeria på Storgatan 11 i Göteborg.
-- **[Vallawok](https://vallawok.se)** — Vallawok — äkta thaimat i Linköping sedan 2012.
-- **[Miss Print](https://missprint.se)** — Miss Print — personligt tryckeri i Göteborg sedan 1999.
-- **[Bytly](https://bytly.se)** — Bytly — byt lägenhet enkelt och tryggt i hela Sverige.
-- **[Kontorsstäd Göteborg](https://kontorsstadgoteborg.se)** — Kontorsstäd Göteborg — städning för företag och lokaler.
-- **[Städhjälp Göteborg](https://stadhjalpgoteborg.se)** — Städhjälp Göteborg — hemstäd, storstäd och flyttnära städning.
-- **[Storstäd Göteborg](https://storstadgoteborg.se)** — Storstäd Göteborg — grundlig djuprengöring av hem och lokaler.
+- [Städly](https://stadly.nu): städfirma i Göteborg
+- [Kraft & Rent](https://kraftrent.se): hem- och företagsstädning i Göteborg
+- [Theresas Städ](https://theresasstad.se): familjeägd städfirma i Göteborg
+- [ES Sten och Anläggning](https://esstenochanlaggning.se): markarbeten i Göteborg
+- [MS Entreprenad](https://msentreprenad.se): dränering och anläggning i Västra Götaland
+- [Tittis Städ](https://tittisstad.se): hemstäd, flyttstäd och fönsterputs
+- [Kungälvs Kött & Chark](https://kungalvskottochchark.se): köttlådor i Kungälv
+- [Fastpris Städ Göteborg](https://fastprisstad.se): kontorsstäd och flyttstäd till fast pris
+- [Hittaflyttstädning](https://hittaflyttstadning.se): jämförelseguide för flyttstädning i Göteborg
+- [Hemstäd Göteborg](https://hemstadgoteborg.com): hemstädning i hela Göteborg
+- [Flyttstäd Göteborg](https://flyttstadgoteborg.se): flyttstädning i Göteborg
+- [Il Gambero](https://ilgambero.se): napoletansk pizzeria på Storgatan 11 i Göteborg
+- [Vallawok](https://vallawok.se): thaimat i Linköping
+- [Miss Print](https://missprint.se): tryckeri i Göteborg
+- [Bytly](https://bytly.se): lägenhetsbyte i hela Sverige
+- [Kontorsstäd Göteborg](https://kontorsstadgoteborg.se): städning för företag och lokaler
+- [Städhjälp Göteborg](https://stadhjalpgoteborg.se): hemstäd, storstäd och flyttnära städning
+- [Storstäd Göteborg](https://storstadgoteborg.se): storstädning av hem och lokaler
