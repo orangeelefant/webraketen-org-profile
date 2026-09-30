@@ -26,7 +26,6 @@ Du följer bygget i en delad länk varje dag. AI skriver utkasten, vi leder arbe
 Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten är klar.
 
 - Il Gambero: napoletansk pizzeria på Storgatan 11 i Göteborg
-- Vallawok: thaimat i Linköping
 - Miss Print: tryckeri i Göteborg
 
 ## Sajter vi bygger och driver
