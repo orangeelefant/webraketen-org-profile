@@ -5,7 +5,7 @@
 
 # Webraketen
 
-Vi bygger din sajt till fast pris, från 3 999 kr. Efter ett samtal på 30 minuter får du en offert via e-post inom 24 timmar. Du godkänner skissen innan vi skriver kod, och du äger sajten.
+Vi bygger din sajt till fast pris, från 3 999 kr. Efter ett samtal på 30 minuter får du en offert via e-post inom 24 timmar. Du godkänner skissen innan vi skriver kod. Sajten är din. Vi sköter driften om du vill.
 
 **[webraketen.se](https://webraketen.se)** · hej@webraketen.se · 031-373 51 11 · Göteborg, mån till fre 09 till 17
 
