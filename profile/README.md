@@ -45,3 +45,4 @@ Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten �
 - [Kontorsstäd Göteborg](https://kontorsstadgoteborg.se): städning för företag och lokaler
 - [Städhjälp Göteborg](https://stadhjalpgoteborg.se): hemstäd, storstäd och flyttnära städning
 - [Storstäd Göteborg](https://storstadgoteborg.se): storstädning av hem och lokaler
+- **[Flytthandboken](https://flytthandboken.se)** — Flytthandboken. Flytta steg för steg, med mallar och lagrum.
