@@ -6,11 +6,11 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- README beskriver repot rätt (Webraketen-organisationen slogs ihop med orangeelefant 2026-07-30). Sidfot tillagd i README och profile/README.md, Flytthandboken-raden enhetlig. ABOUT.md utan död länk till github.com/Webraketen och utan emojis. AGENTS.md anger rätt reponamn. GitHub-beskrivning och ämnen uppdaterade (2026-11-04).
 - Vallawok är borttagen ur "På väg" enligt Christoffers beslut, eftersom den inte längre är ett aktuellt projekt (2026-09-30).
 - Äganderätten enligt Christoffers beslut: "Sajten är din. Vi sköter driften om du vill." (DOK-03, 2026-09-30).
 - Il Gambero, Vallawok och Miss Print ligger under "På väg" utan länk, eftersom domänerna fortfarande visar de gamla sajterna. "Sajten är din från dag ett" är ersatt med "du äger sajten" tills villkoren och copyn är samordnade (DOK-02, DOK-03, 2026-09-30).
 - `profile/README.md` på svenska i Klartext med Arbetsyta-loggan (ljus och mörk i `profile/assets/`). Priser och löften från webraketen.se. Borttaget för att det saknade källa eller var fel: 48 timmar, webb-appar från 2 999 kr, 4,9★ och 20 år. Sajtlistan står sist, där backlink-motorn lägger nya rader (2026-09-29).
-
 - Bootstrapped `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `TODO.md` (2026-05-25).
 - Rättade trasig länktext "bo[ka direkt…]" i `profile/README.md` (2026-09-23).
 - ABOUT.md visar bara förnamnet.

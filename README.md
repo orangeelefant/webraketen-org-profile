@@ -1,5 +1,10 @@
-# webraketen-org-profile
+# Webraketen agency profile
 
-This is the special GitHub repo that renders the [orangeelefant](https://github.com/orangeelefant) org profile. The page GitHub actually shows visitors lives at [`profile/README.md`](profile/README.md), that's the one to edit when the fleet list or pitch changes.
+This repository holds the public agency profile of [Webraketen](https://webraketen.se), a web agency in Göteborg that builds sites at a fixed price.
 
-`ABOUT.md` is an older English-language summary, kept for history but not the source of truth, don't sync fleet changes into it.
+The text lives in [`profile/README.md`](profile/README.md), in Swedish: prices, how a project runs, and the list of sites we build and run. It was the profile page of the Webraketen GitHub organization until that organization was merged into the [orangeelefant](https://github.com/orangeelefant) account on 2026-07-30.
+
+[`ABOUT.md`](ABOUT.md) is a short English summary.
+
+---
+**Webraketen on GitHub:** [Portfolio](https://github.com/orangeelefant/portfolio) · [Case studies](https://github.com/orangeelefant/case-studies) · [Blue Pencil](https://github.com/orangeelefant/bluepencil) · [webraketen.se](https://webraketen.se)

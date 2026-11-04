@@ -2,48 +2,31 @@
 
 Project context for Claude Code sessions in this repository.
 
-## What This Is
+## What this is
 
-Webraketen organization profile
+Webraketen's agency profile. It was the profile README of the Webraketen GitHub organization until that organization was merged into the orangeelefant account on 2026-07-30.
 
-**Live:** https://webraketen.se
+**Live:** https://github.com/orangeelefant/webraketen-org-profile
 
 ## Stack
 
-_(Fill in: framework, language, hosting, key services. Inspect `package.json` / `pyproject.toml` / similar to confirm.)_
+Markdown and two SVG logos. No build.
 
 ## Layout
 
-- `src/` — source code
-- `tests/` — tests
-- `docs/` — documentation
-- `scripts/` — utility scripts
+- `profile/README.md`: the agency text and site list
+- `profile/assets/`: Webraketen logo, light and dark
+- `ABOUT.md`: short English summary
 
 ## Commands
 
-```bash
-# install
-# build
-# test
-# dev
-```
+None. Edit the files, commit, push to `main`.
 
-_(Fill in actual commands once known.)`_
+## Definition of done
 
-## Conventions
-
-- Match existing patterns; don't introduce new abstractions without reason.
-- Keep files under 500 lines.
-- Swedish copy for client-facing text unless otherwise specified.
-- Secrets live in `~/.secrets` and are referenced via `${VAR}`.
-
-## Definition of Done
-
-A change is done when:
-
-1. Code works (built and verified locally).
-2. `CHANGELOG.md` updated under `[Unreleased]`.
-3. `TODO.md` reconciled (completed items removed or ticked, follow-ups added).
+1. Links checked: every client link keeps its URL and anchor text.
+2. `CHANGELOG.md` has a line under `[Unreleased]`.
+3. `TODO.md` reconciled.
 4. Committed and pushed to `main`.
 
-See `AGENTS.md` for the full agent contract.
+See `AGENTS.md` for the agent rules.
