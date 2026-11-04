@@ -39,7 +39,6 @@ Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten �
 - [Kungälvs Kött & Chark](https://kungalvskottochchark.se): köttlådor i Kungälv
 - [Fastpris Städ Göteborg](https://fastprisstad.se): kontorsstäd och flyttstäd till fast pris
 - [Hittaflyttstädning](https://hittaflyttstadning.se): jämförelseguide för flyttstädning i Göteborg
-- [Hemstäd Göteborg](https://hemstadgoteborg.com): hemstädning i hela Göteborg
 - [Flyttstäd Göteborg](https://flyttstadgoteborg.se): flyttstädning i Göteborg
 - [Bytly](https://bytly.se): lägenhetsbyte i hela Sverige
 - [Kontorsstäd Göteborg](https://kontorsstadgoteborg.se): städning för företag och lokaler

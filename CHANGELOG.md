@@ -6,6 +6,7 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Hemstäd Göteborg är borttagen ur profile/README.md och ABOUT.md enligt Christoffers beslut (2026-11-04).
 - README beskriver repot rätt (Webraketen-organisationen slogs ihop med orangeelefant 2026-07-30). Sidfot tillagd i README och profile/README.md, Flytthandboken-raden enhetlig. ABOUT.md utan död länk till github.com/Webraketen och utan emojis. AGENTS.md anger rätt reponamn. GitHub-beskrivning och ämnen uppdaterade (2026-11-04).
 - Vallawok är borttagen ur "På väg" enligt Christoffers beslut, eftersom den inte längre är ett aktuellt projekt (2026-09-30).
 - Äganderätten enligt Christoffers beslut: "Sajten är din. Vi sköter driften om du vill." (DOK-03, 2026-09-30).
