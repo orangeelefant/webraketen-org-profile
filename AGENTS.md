@@ -1,19 +1,19 @@
 # AGENTS.md
 
-Instructions for automation agents (Claude Code, Codex and similar) working in this repository.
+Instructions for automation agents (Claude Code, Codex and similar) that work in this repo.
 
 ## Repository
 
 - **Name:** `orangeelefant/webraketen-org-profile`
-- **Purpose:** Webraketen's agency profile: prices, process and the list of sites we build and run.
+- **Purpose:** The Webraketen profile: prices, process and the list of sites that Webraketen builds and runs.
 - **Live:** https://webraketen.se
 
 ## Rules
 
-- Read `CLAUDE.md` and `TODO.md` before changing anything.
-- Push directly to `main`. One logical change per commit.
+- Read `CLAUDE.md` and `TODO.md` before you change anything.
+- Push directly to `main`. Make one logical change in each commit.
 - Never commit credentials. Reference secrets through environment variables.
-- Every existing link to a client site keeps its URL and anchor text. The Webraketen backlink engine counts them.
-- Public copy is Swedish unless the file is already in English.
-- Add a line under `## [Unreleased]` in `CHANGELOG.md` for every change to content or configuration.
-- `profile/README.md` is the agency text. The site list at its end is extended by the backlink engine.
+- Keep the URL and the anchor text of each link to a customer site. The Webraketen backlink engine counts them.
+- Public copy is Swedish unless the file is in English.
+- Add one line under `## [Unreleased]` in `CHANGELOG.md` for every change to content or configuration.
+- `profile/README.md` is the Webraketen text. The backlink engine adds sites to the list at its end.

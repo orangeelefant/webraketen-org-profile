@@ -15,3 +15,4 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 - Bootstrapped `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `TODO.md` (2026-05-25).
 - Rättade trasig länktext "bo[ka direkt…]" i `profile/README.md` (2026-09-23).
 - ABOUT.md visar bara förnamnet.
+- Docs: internal text rewritten to ASD-STE100 English.

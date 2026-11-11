@@ -1,6 +1,6 @@
-# TODO
+# `TODO.md`
 
-Open work for this repository, highest priority first.
+Open work for this repo, highest priority first.
 
 ## Now
 
